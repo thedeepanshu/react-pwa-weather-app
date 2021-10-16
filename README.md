@@ -1,3 +1,9 @@
+Pogressive Web Application using React.js
+
+![weather-app-screenshot](public/images/screenshot.png)
+
+[Click here and check how it works](https://weather-app-current.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
